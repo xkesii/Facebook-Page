@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.Subcategories > p{
+  font-size: 25px;
+  margin: 30px;
+  display: inline;
+  color: lightgray;
+  padding: 1px;
+}
+p {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+header {
+  text-align: center;
+  background-color: 	#343434;
+}
+#Name{
+  font-size: 40px;
+  color: White;
+  font: helvetica;
+}
+#Quote{
+  font-size: 20px;
+  color: white;
+}
+#Introtxt{
+
+}
+.FellowAmericans
+{
+  width: 100%;
+}
+.main {
+  background-color: gray;
+}
+.intro {
+width: 300px;
+text-align: center;
+border-radius: 40px;
+padding: 20px;
+background-color: #242526 ;
+margin: 50px;
+}
+.Info {
+  color: white;
+  font-size: 20px;
+  border-radius: 40px;
+  margin: 20px;
+  margin-top: 10px;
+  text-align: left;
+}
+.row1 {
+  width: 600px;
+}
+
+#Obama {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+
+.Photos{
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-around;
+}
