@@ -34,6 +34,7 @@ header {
 }
 .FellowAmericans
 {
+  position: relative;
   width: 88%;
   border-radius: 20px;
 }
@@ -233,5 +234,13 @@ padding-left: 15px;
 .MessageButton {
   background-color: lightgray;
   color: white;
+}
+
+.ProfilePic {
+  position: relative;
+}
+.ObamaPic {
+    border-radius: 50%;
+    position: absolute;
 }
 
